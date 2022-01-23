@@ -1,0 +1,60 @@
+{
+  "data": {
+    "query": {
+      "starterEntities": {
+        "nodes": [
+          {
+            "field1": 12724,
+            "field2": null,
+            "field3": null
+          },
+          {
+            "field1": 3439,
+            "field2": null,
+            "field3": null
+          },
+          {
+            "field1": 16564,
+            "field2": null,
+            "field3": null
+          },
+          {
+            "field1": 13386,
+            "field2": null,
+            "field3": null
+          },
+          {
+            "field1": 15185,
+            "field2": null,
+            "field3": null
+          },
+          {
+            "field1": 6430,
+            "field2": null,
+            "field3": null
+          },
+          {
+            "field1": 15204,
+            "field2": null,
+            "field3": null
+          },
+          {
+            "field1": 12576,
+            "field2": null,
+            "field3": null
+          },
+          {
+            "field1": 7889,
+            "field2": null,
+            "field3": null
+          },
+          {
+            "field1": 1536,
+            "field2": null,
+            "field3": null
+          }
+        ]
+      }
+    }
+  }
+}
